@@ -1,0 +1,5 @@
+{
+  "name": "Neon Strike Python Edition",
+  "description": "A high-fidelity Tic-Tac-Toe game powered by a Python engine and Minimax AI running in the browser via PyScript.",
+  "requestFramePermissions": []
+}
